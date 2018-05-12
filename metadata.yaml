@@ -1,0 +1,32 @@
+_repo: Her-Royal-Highness--A-Romance-of-the-Chancelleries-of-Europe_41093
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Le Queux, William
+    aliases:
+    - Queux, William Tufnell Le
+    - Queux, William Le
+    birthdate: 1864
+    deathdate: 1927
+    gutenberg_agent_id: '3141'
+    url: http://www.gutenberg.org/2009/agents/3141
+    wikipedia: http://en.wikipedia.org/wiki/William_Le_Queux
+description: ''
+gutenberg_issued: '2012-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41093'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spy stories'
+- !lcc 'PR'
+- !lcsh 'Mystery fiction'
+- !lcsh 'Princesses -- Fiction'
+title: 'Her Royal Highness: A Romance of the Chancelleries of Europe'
+url: http://www.gutenberg.org/ebooks/41093
